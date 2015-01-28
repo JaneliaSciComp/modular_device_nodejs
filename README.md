@@ -1,2 +1,2 @@
-nodejs_remote_device
-====================
+modular_device_nodejs
+=====================
